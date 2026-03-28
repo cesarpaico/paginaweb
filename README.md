@@ -1,7 +1,15 @@
-# hola
+# Bienvenidos a mi pagina personal
 
-# #datos
+# #datos personales
 
-- Nombre:cesar paico
-- facultad:fisi
-- universidad:san marcos
+- Nombre:Cesar Paico
+- Facultad:FISI
+- Universidad:UNMSM
+- Escuela profecional:Ingenieria de Sistemas
+
+  ## hobbies
+
+- videojuegos
+- futbol
+- comer
+- dormir
