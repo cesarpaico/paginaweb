@@ -2,7 +2,7 @@
 
 ## Datos personales
 
-- Nombre:+**Cesar Paico**
+- Nombre:**Cesar Paico**
 - Facultad:FISI
 - Universidad:UNMSM
 - Escuela profecional:*Ingenieria de Sistemas*
