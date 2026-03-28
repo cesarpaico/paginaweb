@@ -1,13 +1,13 @@
 # Bienvenidos a mi pagina personal
 
-# #datos personales
+## Datos personales
 
 - Nombre:Cesar Paico
 - Facultad:FISI
 - Universidad:UNMSM
 - Escuela profecional:Ingenieria de Sistemas
 
-  ## hobbies
+  ## Hobbies
 
 - videojuegos
 - futbol
