@@ -2,6 +2,6 @@
 
 # #datos
 
--nombre:cesar paico
--facultad:fisi
--universidad:san marcos
+- Nombre:cesar paico
+- facultad:fisi
+- universidad:san marcos
