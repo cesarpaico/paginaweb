@@ -2,14 +2,14 @@
 
 ## Datos personales
 
-- Nombre:Cesar Paico
+- Nombre:+**Cesar Paico**
 - Facultad:FISI
 - Universidad:UNMSM
-- Escuela profecional:Ingenieria de Sistemas
+- Escuela profecional:*Ingenieria de Sistemas*
 
   ## Hobbies
 
-- videojuegos
-- futbol
-- comer
-- dormir
+- Videojuegos
+- Jugar futbol
+- Comer
+- Dormir
